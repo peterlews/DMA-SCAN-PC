@@ -1,5 +1,5 @@
 # DMA-SCAN-PC
-Scan your own host and create DMA!
+Scan your own host and create DMA!Create your own independent firmware！
 
 https://github.com/miaomiaolike/DMA-SCAN-PC/releases/tag/NEW You can download an executable version here!
 
